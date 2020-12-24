@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "component-garage"
+    }
+  },
+  "defaultProject": "component-garage",
+  "cli": {
+    "analytics": "31540959-ac58-406f-b28f-b9a47a949ccc"
+  }
 }
